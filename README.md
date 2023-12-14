@@ -13,8 +13,8 @@ Soy estudiante de 4º de carrera de Ingeniería Informática en la Universidad d
 ## 🌱 Habilidades
 
 - Lenguajes de programación: `C++` `C` `JavaScript` `Java` `Python` `PHP` `Dart` 
-- Herramientas y tecnologías: `HTML` `CSS` `Git` `MySQL` `Node.js` `Flutter` `Docker`
-- Metodologías de trabajo: `SCRUM` `Kanban`
+- Herramientas y tecnologías: `HTML` `CSS` `Git` `MySQL` `Flutter` `Docker`
+- Metodologías de trabajo: `SCRUM`
 
 ## ⚡ Contacto
 
